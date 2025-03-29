@@ -1,0 +1,53 @@
+CC Practice Exams : 
+
+DOMAIN 1 :
+
+1. When virtual machines are constructed and destroyed
+in elastic cloud computing environments, the same
+physical hardware is commonly used by different clients
+over time. Implications for which of the following data
+security issues does this have?
+
+= Data Confidentiality
+
+2. What is the purpose of the backup of electronically
+  stored data on hdd?
+
+- Data Availability
+
+3. What was the primary purpose of Separation of
+  duties in an organization?
+
+- Data Integrity
+
+4. The purpose of mandatory vacations as a security
+  measure is to discover which of the following?
+
+- Network administrator fraud
+
+5. Security professionals with a (ISC)2 certification are expected
+to serve first ?
+
+- Humanity
+
+6. What kind of risk response enterprise is used stop or removes
+activity or technology that causes the risk in the first place?
+
+-risk avoidance
+
+7. Which will be more appropriate risk response when the
+identified risk is within the organizational risk tolerance?
+
+-risk acceptance
+
+8. What is the MOST feasible risk response when the cost
+of anti-malware exceeds the damage probability of computer
+viruses?
+
+-Risk acceptance
+
+9. Which of the following is an true statement of Identification ?
+
+-Process of asserting a identify and having it confirmed .
+
+ 
